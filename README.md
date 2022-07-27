@@ -1,6 +1,6 @@
 # 我的第一个项目（仅用来自学）
 
-跟学大神Milo Yip的json-tutorual
+跟学大神Milo Yip的json-tutorial
 
 
 
